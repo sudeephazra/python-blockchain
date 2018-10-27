@@ -27,3 +27,4 @@ blockchain[2].data = "Modified"
 blockchain[2].hash = Block.Block.hash_block(blockchain[2])
 # Printing the tampered block
 print(json.dumps(blockchain[2].__dict__))
+print("########################################")
