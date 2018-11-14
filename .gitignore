@@ -1,7 +1,10 @@
 # Unit test / coverage reports
 htmlcov/
+.scannerwork/
 .tox/
 .coverage
 .cache
 nosetests.xml
 coverage.xml
+.idea/
+.idea/workspace.xml
